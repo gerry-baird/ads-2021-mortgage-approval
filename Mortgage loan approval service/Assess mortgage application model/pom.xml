@@ -36,5 +36,11 @@
             <type>decision-library</type>
             <version>LATEST-SNAPSHOT</version>
         </dependency>
+        <dependency>
+            <groupId>decisions.mortgage_approval_ads_2021_with_ml.mortgage_loan_approval_service</groupId>
+            <artifactId>mortgageDefaultPredictor</artifactId>
+            <type>decision-library</type>
+            <version>LATEST-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 </project>

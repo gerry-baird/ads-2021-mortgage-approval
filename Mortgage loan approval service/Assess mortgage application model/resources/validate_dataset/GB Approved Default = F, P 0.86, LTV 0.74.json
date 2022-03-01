@@ -1,22 +1,22 @@
 {
   "propertyValue": 270000,
   "floodRisk": false,
-  "availableDeposit": 30000,
+  "availableDeposit": 70000,
   "hazardousEnvironment": false,
   "businessApetite": "Normal",
-  "creditScoreEquifax": "Excellent",
-  "creditScoreExperian": "Excellent",
+  "creditScoreEquifax": "Good",
+  "creditScoreExperian": "Good",
   "employmentType": "Full-time employment",
   "grossYearlyIncome": 63000,
   "purchasePrice": 265000,
   "applicantDetails": {
-    "age": 30,
     "credit score": 400,
-    "dependants": 0,
     "emp length": 120,
+    "age": 30,
+    "dependants": 0,
     "income": 100000,
     "loan": 200000,
-    "missed payments": 3,
+    "missed payments": 1,
     "property value": 300000,
     "term": 120
   }
