@@ -1,0 +1,13 @@
+{
+  "applicant": {
+    "credit score": 900,
+    "dependants": 0,
+    "age": 50,
+    "emp length": 120,
+    "income": 100000,
+    "loan": 200000,
+    "missed payments": 0,
+    "property value": 300000,
+    "term": 120
+  }
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="operation" targetRuleProjectName="Mortgage Default Predictor">
+  <name>Mortgage-Default-Predictor</name>
+  <uuid>54234e06-3b13-46f7-838c-f8bdccfacf09</uuid>
+  <decisionModel href="../rules/decisionModel.dmo#a8722053-a5e7-4f2e-af07-a6aa6571752b"/>
+  <targetRuleProject href="../../Mortgage%20Default%20Predictor#bb257d8c-7cb4-4e92-9a57-f3d5d39d393c"/>
+  <tags key="ProviderType">
+    <value><![CDATA[OPS]]></value>
+  </tags>
+  <tags key="ProviderId">
+    <value><![CDATA[disconnectedProvider]]></value>
+  </tags>
+</com.ibm.rules.studio.model.decisionservice:Operation>
